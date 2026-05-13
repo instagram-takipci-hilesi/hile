@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://instagram-takipci-hilesi.github.io/hile/sitemap.xml
